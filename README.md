@@ -30,4 +30,4 @@ The project results indicate that [mention the best-performing model] achieves t
 
 ## Contributors
 
-- [Muhammad Arslan Khalid]
+- [Syed Muhammad Asad Abbas Naqvi]
